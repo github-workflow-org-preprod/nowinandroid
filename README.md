@@ -10,7 +10,7 @@ Now in Android App
 This is the repository for the [Now in Android](https://developer.android.com/series/now-in-android)
 app. It is a **work in progress** 🚧.
 
-**Now in Android** is a fully functional Android app built entirely with Kotlin and Jetpack Compose. It
+**Now in Android** is a fully functional Android app built entirely with Kotlin and Jetpack Compose. It    
 follows Android design and development best practices and is intended to be a useful reference
 for developers. As a running app, it's intended to help developers keep up-to-date with the world
 of Android development by providing regular news updates.
